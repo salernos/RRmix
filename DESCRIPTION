@@ -1,0 +1,18 @@
+Package: RRmix
+Type: Package
+Title: RRmix: Model-Based Classification with Simultaneous Adjustment for Unwanted Variation
+Version: 1.0
+Date: 2015-6-2
+Author: Muting Wan, Martin Wells, James Booth, Stephen Salerno
+Maintainer: Stephen Salerno <salerno1212@gmail.com>
+Description: NEED
+License: GPL (>=2)
+LazyData: TRUE
+Depends: R (>= 3.0.2)
+Imports:
+    Rcpp (>= 0.12.4),
+    RcppArmadillo
+LinkingTo:
+    Rcpp (>= 0.12.4),
+    RcppArmadillo
+RoxygenNote: 5.0.1

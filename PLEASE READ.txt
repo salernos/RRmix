@@ -1,0 +1,19 @@
+Dear Professors & Mahya,
+
+I hope all is well.  Due to some issues with CMAIL, I have uploaded everything to this new Dropbox folder,
+and included my email as this note.  I have in this folder an initial draft of the RRmix R package and 
+documentation.  I have left the package description and details blank for now, as I was unsure as to the 
+final state that the package would take.  In addition, I left an open reference section for the dataset we 
+used in the paper.  Attached to this email is:
+
+- A PDF of the R manual for this package (RRmix.PDF)
+- The source package to be imported into R (RRmix_1.0.tar.gz)
+- The binary package (RRmix_1.0.zip)
+- The RStudio project directory that I created to work on this package (RRmix.zip)
+
+Is there a time that everyone would be free, perhaps early next week, to go over everything and make any 
+necessary edits to the documentation/functionality of the package, as well as to discuss the paper and next 
+steps?
+
+Best,
+Steve
